@@ -1,0 +1,15 @@
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85.csproj.AssemblyReference.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\MainWindow.g.cs
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\App.g.cs
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85_MarkupCompile.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85_MarkupCompile.lref
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\bin\Debug\Lec85.exe.config
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\bin\Debug\Lec85.exe
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\bin\Debug\Lec85.pdb
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\MainWindow.baml
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85.g.resources
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85.Properties.Resources.resources
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85.csproj.GenerateResource.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85.csproj.CoreCompileInputs.cache
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85.exe
+C:\Users\22thi\OneDrive\เดสก์ท็อป\เรียน DornToDev\Lec85\Lec85\obj\Debug\Lec85.pdb
